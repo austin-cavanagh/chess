@@ -1,0 +1,2 @@
+Knight didn't know that it could attack a piece to get rid of the check
+    I think this has to do with the useEffects rendering out of order

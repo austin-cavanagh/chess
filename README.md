@@ -81,8 +81,6 @@ To get a local copy up and running follow these simple steps.
 
 5. **Happy coding!**
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## Contributing
@@ -98,20 +96,14 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 
 ## Contact
 
 Austin Cavanagh - <a href="https://github.com/austin-cavanagh" target="_blank">GitHub</a> - <a href="https://www.linkedin.com/in/austincavanagh/" target="_blank">LinkedIn</a> - austin.cavanagh.cs@gmail.com
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## License
 
 Distributed under the MIT License. See [LICENSE.txt](LICENSE.txt) for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>

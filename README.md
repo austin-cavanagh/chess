@@ -12,64 +12,28 @@
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#overview">Overview</a>
-      <ul>
-        <li><a href="#highlights">Highlights</a></li>
-      </ul>
-    </li>
-    <li><a href="#built-with">Built With</a></li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#license">License</a></li>
-  </ol>
-</details>
-
-<!-- TECHNOLOGIES -->
-
-## Technologies
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-214ce5?style=for-the-badge&logo=css3&logoColor=white)
-
 <!-- OVERVIEW -->
 
 ## Overview
 
 ![Screenshot displaying an overview of the solar system](/public/screenshots/chess-screenshot-1.png)
 
-Welcome to my portfolio, designed as an interactive solar system to reflect my interest in space and talents as a developer.
+Welcome to my chess application. As a chess enthusiast, I chose this project as my first major undertaking after learning React. While still in development, the application currently supports all piece movements, castling, en passant, and detects check and checkmate scenarios.
 
-### Highlights:
+<!-- BUILT WITH -->
 
-- **3D Solar System**: Explore a detailed 3D environment showcasing each planet in our solar system
-- **Responsive Design**: Ensures a seamless and visually consistent experience across all devices
-- **Dynamic Interactivity**: Engage with intuitive elements that respond to your interactions
+## Built With
 
-<br>
-
-I hope you enjoy exploring my portfilio as much as I enjoyed creating it!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-214ce5?style=for-the-badge&logo=css3&logoColor=white)
 
 <!-- GETTING STARTED -->
 
 ## Getting Started
 
-This section provides instructions on how to get a local copy of the portfolio up and running.
+This section provides instructions on how to get a local copy up and running.
 
 ### Prerequisites
 
@@ -91,14 +55,14 @@ To get a local copy up and running follow these simple steps.
    Begin by cloning the repository to your local machine:
 
    ```sh
-   git clone https://github.com/austin-cavanagh/portfolio.git
+   git clone https://github.com/austin-cavanagh/chess.git
    ```
 
 2. **Navigate to the project directory**
    Enter directory after cloning:
 
    ```sh
-   cd portfolio
+   cd chess
    ```
 
 3. **Install dependencies**
@@ -115,48 +79,9 @@ To get a local copy up and running follow these simple steps.
    npm run dev
    ```
 
-5. **Build for production**
-   To build the project for production, use:
-
-   ```sh
-   npm run build
-   ```
-
-   After building, run the production build by using:
-
-   ```sh
-   npm start
-   ```
-
-6. **Happy coding!**
+5. **Happy coding!**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- USAGE EXAMPLES -->
-
-<!-- ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- ROADMAP -->
-
-<!-- ## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-  - [ ] Chinese
-  - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- CONTRIBUTING -->
 
@@ -190,14 +115,3 @@ Austin Cavanagh - <a href="https://github.com/austin-cavanagh" target="_blank">G
 Distributed under the MIT License. See [LICENSE.txt](LICENSE.txt) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-<!-- ## Acknowledgments
-
-Below are some resources I found useful when building this project.
-
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->

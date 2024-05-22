@@ -36,11 +36,20 @@
   </ol>
 </details>
 
+<!-- TECHNOLOGIES -->
+
+## Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-214ce5?style=for-the-badge&logo=css3&logoColor=white)
+
 <!-- OVERVIEW -->
 
 ## Overview
 
-![Screenshot displaying an overview of the solar system](/assets/screenshots/overview-screenshot.png)
+![Screenshot displaying an overview of the solar system](/public/screenshots/chess-screenshot-1.png)
 
 Welcome to my portfolio, designed as an interactive solar system to reflect my interest in space and talents as a developer.
 
@@ -53,17 +62,6 @@ Welcome to my portfolio, designed as an interactive solar system to reflect my i
 <br>
 
 I hope you enjoy exploring my portfilio as much as I enjoyed creating it!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- BUILT WITH -->
-
-## Built With
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-214ce5?style=for-the-badge&logo=css3&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

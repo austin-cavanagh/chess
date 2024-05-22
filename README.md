@@ -4,18 +4,12 @@
 <br />
 <div align="center">
 
-  <h3 align="center">Portfolio</h3>
+  <h3 align="center">Chess</h3>
 
-<a href="https://austincavanagh.me" target="_blank"><strong>Explore Portfolio »</strong></a>
-
-<!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
-<!-- · -->
-
-<a href="https://github.com/austin-cavanagh/portfolio/issues/new?assignees=&labels=&projects=&template=bug-report-%F0%9F%90%9D.md&title=">Report Bug</a>
+<a href="https://github.com/austin-cavanagh/chess/issues/new?assignees=&labels=&projects=&template=bug-report-%F0%9F%90%9D.md&title=">Report Bug</a>
 ·
-<a href="https://github.com/austin-cavanagh/portfolio/issues/new?assignees=&labels=&projects=&template=feature-request-%F0%9F%9A%80.md&title=">Request Feature</a>
+<a href="https://github.com/austin-cavanagh/chess/issues/new?assignees=&labels=&projects=&template=feature-request-%F0%9F%9A%80.md&title=">Request Feature</a>
 
-  </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -67,19 +61,9 @@ I hope you enjoy exploring my portfilio as much as I enjoyed creating it!
 ## Built With
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-214ce5?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-4f45e4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-774abc?style=for-the-badge&logo=redux&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Toolkit-774abc?style=for-the-badge&logo=redux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1e63ee?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![AWS ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
-![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-774abc?style=for-the-badge&logo=opengl&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
